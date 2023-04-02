@@ -1,0 +1,38 @@
+{"level":30,"time":1680422164999,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"AppController {/}:"}
+{"level":30,"time":1680422165001,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/, GET} route"}
+{"level":30,"time":1680422165001,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"UsersController {/users}:"}
+{"level":30,"time":1680422165001,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/users, GET} route"}
+{"level":30,"time":1680422165002,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/users/:id, GET} route"}
+{"level":30,"time":1680422165002,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/users/:id, DELETE} route"}
+{"level":30,"time":1680422165003,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/users/:id, PUT} route"}
+{"level":30,"time":1680422165003,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"AuthController {/}:"}
+{"level":30,"time":1680422165003,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/signin, POST} route"}
+{"level":30,"time":1680422165003,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/signup, POST} route"}
+{"level":30,"time":1680422165003,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"BoardsController {/boards}:"}
+{"level":30,"time":1680422165004,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards, GET} route"}
+{"level":30,"time":1680422165005,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:id, GET} route"}
+{"level":30,"time":1680422165005,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards, POST} route"}
+{"level":30,"time":1680422165005,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:id, DELETE} route"}
+{"level":30,"time":1680422165006,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:id, PUT} route"}
+{"level":30,"time":1680422165006,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"ColumnsController {/boards/:boardId/columns}:"}
+{"level":30,"time":1680422165006,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns, GET} route"}
+{"level":30,"time":1680422165007,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns/:columnId, GET} route"}
+{"level":30,"time":1680422165007,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns, POST} route"}
+{"level":30,"time":1680422165007,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns/:columnId, DELETE} route"}
+{"level":30,"time":1680422165008,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns/:columnId, PUT} route"}
+{"level":30,"time":1680422165008,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"TasksController {/boards/:boardId/columns/:columnId/tasks}:"}
+{"level":30,"time":1680422165008,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, GET} route"}
+{"level":30,"time":1680422165008,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, GET} route"}
+{"level":30,"time":1680422165009,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, POST} route"}
+{"level":30,"time":1680422165009,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, DELETE} route"}
+{"level":30,"time":1680422165009,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, PUT} route"}
+{"level":30,"time":1680422165009,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"SearchController {/search/tasks}:"}
+{"level":30,"time":1680422165009,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/search/tasks, GET} route"}
+{"level":30,"time":1680422165009,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"OrderController {/order/tasks}:"}
+{"level":30,"time":1680422165010,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/order/tasks, PUT} route"}
+{"level":30,"time":1680422165010,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"FileController {/}:"}
+{"level":30,"time":1680422165010,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/file, POST} route"}
+{"level":30,"time":1680422165010,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/file/:taskid/:filename, GET} route"}
+{"level":30,"time":1680422165011,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"OrderColumnsController {/order/columns}:"}
+{"level":30,"time":1680422165011,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Mapped {/order/columns, PUT} route"}
+{"level":30,"time":1680422165013,"pid":4752,"hostname":"WIN-AC3SELNLHJL","msg":"Nest application successfully started"}

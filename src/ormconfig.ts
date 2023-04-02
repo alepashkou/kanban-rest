@@ -9,7 +9,7 @@ dotenv.config({
 export default {
   type: 'postgres',
   cache: false,
-  url: process.env.DATABASE_URL as string,
+  url: 'postgres://backend-team7-main-db-02fdbd3ab703c49fe:4Ztr7fmKudyNdf1XHc1K7aYA9nfGut@user-prod-us-east-2-1.cluster-cfi5vnucvv3w.us-east-2.rds.amazonaws.com:5432/backend-team7-main-db-02fdbd3ab703c49fe',
   synchronize: false,
   logging: false,
   ssl: {
